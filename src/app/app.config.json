@@ -1,0 +1,14 @@
+{
+	"appname": "BUYER-APP",
+	"scope": "FullAccess BuyerAdmin BuyerReader",
+	"clientid": "A86FB711-2175-47A1-BF3C-D22F085A4389",
+	"buyerid": "BC000001",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
